@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/cryptodash/static/css/main.73f66be1.chunk.css"
   },
   {
-    "revision": "625e2f9abfe6ef876d040b35121c88ca",
+    "revision": "dff533a255a30e8de75c9cd90dd259b5",
     "url": "/cryptodash/index.html"
   }
 ];
